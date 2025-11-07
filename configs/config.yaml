@@ -1,0 +1,12 @@
+# Configuration for the application
+# This is a placeholder file.
+
+database:
+  host: "localhost"
+  port: 5432
+  user: "user"
+  password: "password"
+  dbname: "dddnd"
+
+server:
+  port: 8080
